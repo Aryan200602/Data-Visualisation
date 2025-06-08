@@ -1,2 +1,4 @@
 # Data-Visualisation
 Data Visualisation on fruit prices 2022 dataset. 
+
+This project analyzes the **Fruit Prices 2022** dataset from Kaggle to explore fruit pricing trends using Python libraries like Pandas, Seaborn, and Matplotlib. The dataset includes details such as fruit type, form (fresh, juice, canned), retail price per pound, cup equivalent price, and other attributes. The visualizations created include scatter plots comparing retail and cup prices by fruit form, bar charts showing average prices per fruit, line graphs of price trends, histograms of price distribution, pie charts of fruit form proportions, and box plots highlighting price spreads and outliers. By running the provided scripts or Jupyter notebook after installing the necessary packages, users can discover which fruits are more or less expensive and how prices vary with fruit form. This project is intended for educational purposes.
